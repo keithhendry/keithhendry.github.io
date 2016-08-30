@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/keithhendry
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://keith.hendryfamily.us
+  * I am keithhendry (https://keybase.io/keithhendry) on keybase.
+  * I have a public key ASCFN3tl2z-55g9Hvsu9G9fYI5lyyPgcG5X3Mbwv-kKkbQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010d59c317b9a41e1dae135d16e2c49633df96ce780e4f629526f507e5b98d44f20a",
+            "host": "keybase.io",
+            "kid": "012085377b65db3fb9e60f47becbbd1bd7d8239972c8f81c1b95f731bc2ffa42a46d0a",
+            "uid": "db63019b7cfa14634b064e95d23e7519",
+            "username": "keithhendry"
+        },
+        "service": {
+            "hostname": "keith.hendryfamily.us",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1472599579,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1472599546,
+        "hash": "51ee0fdee69ae595df1b3db1ce89ed1a060fc60f4e12365d807156df984beaacedff4fbc2c6758fbafa3f2f950c989c3751aa9d7d1deac9ce2774d66fe1f6364",
+        "seqno": 610694
+    },
+    "prev": "2fff22140b0d5af5365f391e9c044c5a3b7fd9291b813f4614a620c57cad11c9",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghTd7Zds/ueYPR77LvRvX2COZcsj4HBuV9zG8L/pCpG0Kp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMGQ1OWMzMTdiOWE0MWUxZGFlMTM1ZDE2ZTJjNDk2MzNkZjk2Y2U3ODBlNGY2Mjk1MjZmNTA3ZTViOThkNDRmMjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODUzNzdiNjVkYjNmYjllNjBmNDdiZWNiYmQxYmQ3ZDgyMzk5NzJjOGY4MWMxYjk1ZjczMWJjMmZmYTQyYTQ2ZDBhIiwidWlkIjoiZGI2MzAxOWI3Y2ZhMTQ2MzRiMDY0ZTk1ZDIzZTc1MTkiLCJ1c2VybmFtZSI6ImtlaXRoaGVuZHJ5In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJrZWl0aC5oZW5kcnlmYW1pbHkudXMiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE3In0sImN0aW1lIjoxNDcyNTk5NTc5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzI1OTk1NDYsImhhc2giOiI1MWVlMGZkZWU2OWFlNTk1ZGYxYjNkYjFjZTg5ZWQxYTA2MGZjNjBmNGUxMjM2NWQ4MDcxNTZkZjk4NGJlYWFjZWRmZjRmYmMyYzY3NThmYmFmYTNmMmY5NTBjOTg5YzM3NTFhYTlkN2QxZGVhYzljZTI3NzRkNjZmZTFmNjM2NCIsInNlcW5vIjo2MTA2OTR9LCJwcmV2IjoiMmZmZjIyMTQwYjBkNWFmNTM2NWYzOTFlOWMwNDRjNWEzYjdmZDkyOTFiODEzZjQ2MTRhNjIwYzU3Y2FkMTFjOSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDArDAKc5SUeEmqTDSnwOZSWo/5FzIDyjrSlKphYac2tVS6LwgwqV8s8koIq63ghsCxnWiLXKWrC8X0ZcfSnHcOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg6Q4Gd7lgqIq/jUbLV4a2mJJm5RZB2CLMBJWj/1O9eU6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/keithhendry
+
+==================================================================
